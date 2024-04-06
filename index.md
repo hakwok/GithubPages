@@ -26,7 +26,13 @@ Throughout the past, I've consistently demonstrated a keen focus on driving inno
 ## Other Interests and Qualifications
 - I'm on the path to obtaining my California Real Estate Salesperson license, driven by my commitment to thrive in our family business. 
 - I hold certification as a USATF Official and have a background as a sprinter in club-college athletics. Additionally, I've contributed to my high school alma mater as both a Defensive Backs and Linebackers coach. 
-- My interests extend to music, where I've earned an Associate of the Royal Schools of Music Piano Diploma and have actively collaborated with producers as an audio engineer. 
+- My interests extend to music, where I've earned an Associate of the Royal Schools of Music Piano Diploma and have actively collaborated with producers as an audio engineer.
+
+**Top Skills**
+
+1.  Python
+2.  Machine Learning
+3.  Leadership
 
 - [x] Fall 2023
 - [x] Winter 2024
