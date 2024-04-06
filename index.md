@@ -1,6 +1,5 @@
-<!--TEMPLIST-->
-
-![me](/indexContent/profile.jpg)
+<!--![me](/indexContent/profile.jpg)-->
+<img src="/indexContent/profile.jpg" alt="me" width="250" height="250">
 
 I am a third-year student at the University of California, San Diego, pursuing my Bachelor of Science in Computer Science. My research interests lie within the intersection of Artificial Intelligence with audio processing and musical transcription. I specialize in harnessing big data, recommender systems, and natural language processing to transform products and software with machine learning.
 
